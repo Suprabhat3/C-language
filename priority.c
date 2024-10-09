@@ -9,8 +9,7 @@ int main() {
     float awt = 0;
 
         for (int i = 0; i < n; i++)
-    {   printf("enter the process number :");
-        scanf("%d",&p[i]);
+    {   p[i] = i+1;
     }
     for (int i = 0; i < n; i++)
     {
