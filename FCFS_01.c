@@ -1,9 +1,5 @@
 // FCFS with out tarn around time
-
-
-
 #include<stdio.h>
-
 int main() {
     int max = 30;
     int n, bt[max], wt[max];
